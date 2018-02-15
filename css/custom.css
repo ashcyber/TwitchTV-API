@@ -1,0 +1,28 @@
+body{
+font-family: 'Indie Flower', cursive;
+
+background: #acb6e5;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #86fde8, #acb6e5);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #86fde8, #acb6e5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#list_channel div{
+	height: 70px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 60px;
+	font-size: 20px; 
+}
+
+.logo{
+	border: 1px solid black; 
+	border-radius: 50%; 
+}
+
+a:hover{
+	text-decoration: none; 
+}
+
+a{
+	color: #000; 
+}
